@@ -1,0 +1,13 @@
+==========SET UP==========
+
+1. Download Selenium IDE extension in Chrome browser
+https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd?hl=en
+2. Once downloaded, click the extension icon
+3. Select Selenium IDE
+4. Upon opening the Selenium IDE, select "Open an existing project"
+5. Select "SampleTestCase1.side" in the corresponding directory
+6. Click "Open" button in file explorer window
+7. Select the "test_case1_end_to_end" test on the left window section
+8. Click the play icon button at the top of the corresponding commands
+
+==========SET UP==========
